@@ -38,8 +38,8 @@ EVENT DRIVEN E MICROSERVICE USANDO COMMAND QUERY RESPONSABILITY SEGREGATION
 * Docker (No diretório docker presente na raiz dessa POC execute o docker-compose.yml para disponibilizar o KAFKA)
 
 # Spring Boot 
- - Micro serciço Questionario
- - Micro serciço Inspeçao
+ - Micro serviço Questionario
+ - Micro serviço Inspeçao
 
 # Postman Collection 
 * [Domínio conformidades](https://github.com/rianmachado/easy-quality/blob/master/dominio-conformidades/collections/conformidades.postman_collection.json) 
